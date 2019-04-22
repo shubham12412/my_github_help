@@ -39,5 +39,5 @@ You can make an unordered list by preceding one or more lines of text with - or 
 # Task Lists
 To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
 - [x] done
-- [] not done
+- [ ] not done
 
