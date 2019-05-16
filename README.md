@@ -10,6 +10,8 @@ https://en.wikipedia.org/wiki/Markdown
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
+https://stackoverflow.com/questions/5308816/how-to-use-git-merge-squash
+
 
 
 
