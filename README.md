@@ -8,6 +8,7 @@ https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-github-crede
 
 https://en.wikipedia.org/wiki/Markdown
 
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
 
 
